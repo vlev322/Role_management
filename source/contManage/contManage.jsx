@@ -13,8 +13,7 @@ class ContManage extends Component {
     constructor() {
         super();
         this.state = {};
-    }
-    
+    }    
  render() {
     return (
       <div className={styles.container}>
