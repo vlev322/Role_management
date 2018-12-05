@@ -1,43 +1,43 @@
 export default [
 
     {
-        "name": "Name_1",
+        "name": "name_F_1",
         "id": 0
     },
     {
-        "name": "Name_2",
+        "name": "name_F_2",
         "id": 1
     },
     {
-        "name": "Name_3",
+        "name": "name_F_3",
         "id": 2
     },
     {
-        "name": "Name_4",
+        "name": "name_F_4",
         "id": 3
     },
     {
-        "name": "Name_5",
+        "name": "name_F_5",
         "id": 4
     },
     {
-        "name": "Name_6",
+        "name": "name_F_6",
         "id": 5
     },
     {
-        "name": "Name_7",
+        "name": "name_F_7",
         "id": 6
     },
     {
-        "name": "Name_8",
+        "name": "name_F_8",
         "id": 7
     },
     {
-        "name": "Name_9",
+        "name": "name_F_9",
         "id": 8
     },
     {
-        "name": "Name_10",
+        "name": "name_F_10",
         "id": 9
     }
 
