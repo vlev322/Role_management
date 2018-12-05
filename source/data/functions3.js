@@ -23,22 +23,6 @@ export default [
     {
         "name": "name_F_6",
         "id": 5
-    },
-    {
-        "name": "name_F_7",
-        "id": 6
-    },
-    {
-        "name": "name_F_8",
-        "id": 7
-    },
-    {
-        "name": "name_F_9",
-        "id": 8
-    },
-    {
-        "name": "name_F_10",
-        "id": 9
     }
 
 ]

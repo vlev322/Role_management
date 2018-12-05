@@ -25,20 +25,19 @@ export default [
         "id": 5
     },
     {
-        "name": "Our_F_7",
+        "name": "Our_F_6",
+        "id": 9
+    },
+    {
+        "name": "Our_F_6",
         "id": 6
     },
     {
-        "name": "Our_F_8",
+        "name": "Our_F_6",
         "id": 7
     },
     {
-        "name": "Our_F_9",
+        "name": "Our_F_6",
         "id": 8
     },
-    {
-        "name": "Our_F_10",
-        "id": 9
-    }
-
 ]
