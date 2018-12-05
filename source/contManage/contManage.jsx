@@ -14,8 +14,8 @@ class ContManage extends Component {
         super();
         this.state = {};
     }
-
-  render() {
+    
+ render() {
     return (
       <div className={styles.container}>
         <BlockFuncCRUD title='Campaigns Charter' functions={functions}/>
