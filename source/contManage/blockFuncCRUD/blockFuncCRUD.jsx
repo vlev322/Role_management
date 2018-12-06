@@ -19,4 +19,4 @@ const BlockFuncCRUD = props => {
         </div>
 )};
   
-  export default BlockFuncCRUD;
+export default BlockFuncCRUD;

@@ -11,11 +11,19 @@
         cursor: pointer
     .circle
         display: inline-block
+        display: flex
+        justify-content: center
+        align-items: center       
         margin-right: 20px
         margin-left: 65px
         height: 16px
         width: 16px
-        border: 2px solid $black
-        border-radius: 25px
-
+        background: conic-gradient($green, #3C3C3B, $orange)
+        // border: 2px solid $black
+        border-radius: 50%
+        .fill
+            height: 9px
+            width: 9px
+            background: #fff
+            border-radius: 50%
 

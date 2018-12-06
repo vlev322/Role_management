@@ -22,7 +22,9 @@ class FuncCRUD extends Component {
         return (
         <div className={styles.listRoles_role}>
             <div onClick={this.onClicked.bind(this)}  className={styles.listRoles_role_title}>
-                <div className={styles.circle}></div>
+                <div className={styles.circle}>
+                    <div className={styles.fill}></div>
+                </div>
                 <span>Function {name}</span>            
             </div>
            { this.state.isOpen ? <PopupCRUD /> : null }
